@@ -6,5 +6,5 @@
 
 Projects done so far..
 
-Ahc App
-LyncMe
+- Ahc App
+- LyncMe
