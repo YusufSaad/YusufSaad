@@ -8,3 +8,7 @@ Projects done so far..
 
 - Ahc App
 - LyncMe
+- Zecoya
+- Clojures
+- DeltaBlock
+- Daneenah
